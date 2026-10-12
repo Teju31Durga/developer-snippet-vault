@@ -72,7 +72,7 @@ Supabase PostgreSQL
       ↓
 Private dashboard
 ```
-
+Deployment setup for Vercel
 ## Security
 
 Supabase Row Level Security ensures a signed-in user can only select, insert, update, and delete rows where `user_id = auth.uid()`.
